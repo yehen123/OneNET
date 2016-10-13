@@ -20,7 +20,8 @@ tags:
 ## 优化了点啥
 
 ### demo、github地址
-1、demo：http://v.lanchenglv.com/demo/vue-cli-multi-page/module/login.html 
+1、demo：http://v.lanchenglv.com/demo/vue-cli-multi-page/module/login.html
+
 2、github：https://github.com/bluefox1688/vue-cli-multi-page
 
 ### 优化的内容
